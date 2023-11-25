@@ -1,1 +1,1 @@
-# Laboratorio-5-Criptograf-a-y-Seguridad-en-Rredes
+# Laboratorio-5-Criptografia-y-Seguridad-en-Redes
